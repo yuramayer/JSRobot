@@ -1,4 +1,4 @@
-# JSRobot
+# JSRobot и JS Free Code Camp 
 A platform game you play by coding in JavaScript!
 <br><br>
 <img src="images/robotbig.png" width="200px">
